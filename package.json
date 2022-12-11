@@ -17,7 +17,6 @@
   "dependencies": {
     "@mui/icons-material": "^5.10.16",
     "@mui/material": "^5.10.17",
-    "@mui/styles": "^5.10.16",
     "gatsby": "^5.2.0",
     "gatsby-plugin-web-font-loader": "^1.0.4",
     "gatsby-source-contentful": "^8.2.0",
