@@ -1,0 +1,1 @@
+	@mui/styles --legacy-peer-deps > because not supported by react 18
